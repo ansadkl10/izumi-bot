@@ -1,4 +1,3 @@
-eo
 const client = require('./lib/client')
 require("./express.js");
 
